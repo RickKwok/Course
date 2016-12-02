@@ -1,5 +1,3 @@
-Review slides, notes, and workshop materials. This is a comprehensive exam over the entire semester. Exam will be closed book. However, as a good study practice, it is suggested you prepare a one page summary of key definitions and terms in order to help you learn and practice the material.
-
 * Implement software engineering practices in a team project.
 * Identify practices related to software process.
 * Decide how to test a system and measure coverage.
@@ -12,16 +10,17 @@ Review slides, notes, and workshop materials. This is a comprehensive exam over 
 
 ### Agile
 
-* Describe why agile software development was created
-* Explain why each of the core practices of Extreme Programming (XP) are effective
-* Explain why each of the corollary practices of XP may be effective
+* Describe why agile software development was created(Agile provides opportunities to assess the direction of a project throughout the development lifecycle. In waterfall, development teams only have one chance to get each aspect of a project right. In an agile paradigm, every aspect of development — requirements, design, etc.)
+* Explain why each of the core practices of Extreme Programming (XP) are effective(Sit together,Energized work,Weekly cycle,Slack,Test-first programming,Incremental design)
+* Explain why each of the corollary practices of XP may be effective(Real customer involvement,Incremental deployment,Team continuity,Shrinking teams,Shared code.For example, daily deployment is useless if your team ships code filled with errors.)
 * Analyze which XP practices are applicable you should use in your team
-* Explain how to apply scrum and iteration planning to a project.
+* Explain how to apply scrum and iteration planning to a project.(Teams planning by selecting stories from product backlog and commiting a set of them for execution in the upcoming iteration.)
 
 ### Design/Patterns/APIs
 
-* Design notation
-* Understand use cases, wireframes, storyboards
+* Design notation(Dynamic:Data flow diagrams (DFDs).State transition diagrams (STDs).Statecharts.Structure diagrams.Static:
+ Entity Relationship Diagrams (ERDs).Class diagrams.Structure charts.Object diagrams.)
+* Understand use cases, wireframes, storyboards(A wireframe is a view schematic that captures all layout and content decisions of that view.A storyboard illustrates the timeline of user performing a task as a sequence of frames.A use case is a list of actions or event steps, typically defining the interactions between a role and a system, to achieve a goal.)
 * Understand core concepts related Design Patterns
 * Identify an architecture when you see it
 * Pick an appropriate architecture for a problem
