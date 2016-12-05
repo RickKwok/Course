@@ -10,7 +10,8 @@
 
 ### Agile
 
-* Describe why agile software development was created(Agile provides opportunities to assess the direction of a project throughout the development lifecycle. In waterfall, development teams only have one chance to get each aspect of a project right. In an agile paradigm, every aspect of development — requirements, design, etc.)
+* Describe why agile software development was created
+  (Agile provides opportunities to assess the direction of a project throughout the development lifecycle. In waterfall, development teams only have one chance to get each aspect of a project right. In an agile paradigm, every aspect of development — requirements, design, etc.)
 * Explain why each of the core practices of Extreme Programming (XP) are effective(Sit together,Energized work,Weekly cycle,Slack,Test-first programming,Incremental design)
 * Explain why each of the corollary practices of XP may be effective(Real customer involvement,Incremental deployment,Team continuity,Shrinking teams,Shared code.For example, daily deployment is useless if your team ships code filled with errors.)
 * Analyze which XP practices are applicable you should use in your team
